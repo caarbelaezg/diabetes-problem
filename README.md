@@ -1,5 +1,7 @@
 # diabetes
 
+### Check notebooks folder in order to see data cleaning and first predictions
+
 Structure and usage
 
 data
